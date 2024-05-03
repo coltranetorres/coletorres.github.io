@@ -1,10 +1,10 @@
-# Data Scientist | AI Engineer
+# AI Engineer
 
 ### Education
 Computer Science & Data Science @ Ateneo de Manila University (2018-2022)
 
 ### Work Experience
-Data Scientist @ IBM
+AI Engineer @ IBM
 *Apr 2023 - Present*
 - Generative AI: Developing proof-of-concepts (POCs) to demonstrate productivity gains of up to 50% and at least 10% sales profit increase by tackling business challenges through tasks like summarization, content generation, and others.
 - Large Language Models (LLMs): Optimizing LLM performance through prompt engineering techniques and retrieval augmented generation, achieving significant performance improvements in accuracy and relevance.
