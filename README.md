@@ -5,7 +5,7 @@ Computer Science & Data Science @ Ateneo de Manila University (2018-2022)
 
 ### Work Experience
 Data Scientist @ IBM
-- Generative AI: Developing proof-of-concepts (POCs) to demonstrate potential of generative AI in solving specific business problems for various tasks such as summarization, inference, and others.
+- Generative AI: Developing proof-of-concepts (POCs) to demonstrate productivity gains of up to 50% and at least 10% sales profit increase by tackling business challenges through tasks like summarization, content generation, and others.
 - Large Language Models (LLMs): Optimizing LLM performance through prompt engineering techniques and retrieval augmented generation, achieving significant performance improvements in accuracy and relevance.
 
 Junior Data Scientist @ Kumu
@@ -15,5 +15,5 @@ Junior Data Scientist @ Kumu
 
 ### Projects
 LLM-Driven Sales Analytics
-- Developed a successful proof-of-concept (POC) demonstrating the potential of large language models (LLMs) to generate data-driven sales insights, potentially reducing the time sales leaders spend analyzing sales data by up to 50%.
+- Developed and sold a successful LLM-powered POC via Watsonx.ai, generating data-driven sales insights and a 10% sales profit increase, proving its potential to significantly reduce analysis time for sales leaders by up to 50%.
 
