@@ -18,3 +18,7 @@ Junior Data Scientist @ Kumu (Aug 2022 - Nov 2022)
 LLM-Driven Sales Analytics App
 - Developed and sold a successful LLM-powered POC via Watsonx.ai, generating data-driven sales insights and a 10% sales profit increase, proving its potential to significantly reduce analysis time for sales leaders by up to 50%.
 
+Geospatial Analysis for Optimal Placement of EV Charging Stations
+- Developed a predictive model to identify regions in Germany with the highest EV charging station demand, informing stakeholder investment priorities.
+
+
