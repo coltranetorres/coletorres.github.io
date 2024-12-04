@@ -5,9 +5,9 @@ Computer Science & Data Science @ Ateneo de Manila University (2018-2022)
 
 ### Work Experience
 AI Engineer @ IBM (Apr 2023 - Present)
-- Generative AI: Developed generative AI Proof-of-Concepts across multiple industries, driving up to a 50% productivity increase by automating tasks like sales report generation, document analysis, and customer data insights - contributing to at least a 10% increase in sales profit.
-- Large Language Models (LLMs): Optimizing LLM performance through prompt engineering techniques and retrieval augmented generation, achieving significant performance gains across legal, financial, retail, and other industries.
-- Model Development: Building custom machine learning models tailored to client needs, such as credit risk, supply chain inventory, and other business functions.
+- Generative AI: Developing proof-of-concepts showcasing up to 50% productivity gains and 10% sales profit increase through Generative AI applications.
+- Large Language Models: Optimizing Large Language Models performance with prompt engineering techniques, achieving significant accuracy and relevance improvements.
+- Deployment: Tailoring and deploying machine learning models and large language models to meet client needs.
 
 Junior Data Scientist @ Kumu (Aug 2022 - Nov 2022)
 - Exploratory Data Analysis: Collected data from distributed data processing via Spark, and analyzed data by applying PCA, and pre-processing techniques such as checking for multicollinearity/segmentation - promoting streamer discovery using second-degree connections.
