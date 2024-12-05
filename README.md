@@ -6,7 +6,7 @@ Computer Science & Data Science @ Ateneo de Manila University (2018-2022)
 ### Work Experience
 AI Engineer @ IBM (Apr 2023 - Present)
 - Generative AI: Developing proof-of-concepts showcasing up to 50% productivity gains and 10% sales profit increase through Generative AI applications.
-- Large Language Models: Optimizing Large Language Models performance with prompt engineering techniques, achieving significant accuracy and relevance improvements.
+- Large Language Models: Optimizing Large Language Models performance with techniques such as prompt engineering, caching, and others - achieving significant accuracy and relevance improvements.
 - Deployment: Tailoring and deploying machine learning models and large language models to meet client needs.
 
 Junior Data Scientist @ Kumu (Aug 2022 - Nov 2022)
